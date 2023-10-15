@@ -2,7 +2,7 @@
 ## Установка ВМ
 
 + Развернута ВМ в ЯндексКлауд с 5 дисками по 1ГБ
-![Альтернативный текст]([)](https://cloud.mail.ru/public/MeP9/YmPRFCiq6)
+![Альтернативный текст]((https://cloud.mail.ru/public/MeP9/YmPRFCiq6)
 
 ## Создание RAID 5
 + Создаем RAID 5 командой  
