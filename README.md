@@ -3,14 +3,13 @@
 
 + Развернута ВМ в ЯндексКлауд с 5 дисками по 1ГБ
 
-<img width="839" alt="Снимок экрана 2023-10-15 в 17 18 26" src="https://github.com/smirnov525/HomeWork1/assets/138726354/759157c5-fa6b-4dd4-99e5-8ad3d736c2ec">
 
 
 ## Создание RAID 5
 + Создаем RAID 5 командой  
-![Альтернативный текст](https://cloud.mail.ru/public/foTa/1Nsze9fSC.png)
+<img width="839" alt="Снимок экрана 2023-10-15 в 17 18 26" src="https://github.com/smirnov525/HomeWork1/assets/138726354/759157c5-fa6b-4dd4-99e5-8ad3d736c2ec">
 + Проверяем, что RAID собрался нормально
-![Альтернативный текст](https://cloud.mail.ru/public/ZXdB/JeF6Gm7jJ)
+<img width="847" alt="Снимок экрана 2023-10-15 в 17 28 23" src="https://github.com/smirnov525/HomeWork1/assets/138726354/88167b06-7988-4494-a024-cde2aad6fd1a">
 
 ## Сломать/Починить RAID
 
