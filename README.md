@@ -6,7 +6,7 @@
 
 ## Создание RAID 5
 + Создаем RAID 5 командой  
-![Альтернативный текст](https://cloud.mail.ru/public/foTa/1Nsze9fSC)
+![Альтернативный текст](https://cloud.mail.ru/public/foTa/1Nsze9fSC.png)
 + Проверяем, что RAID собрался нормально
 ![Альтернативный текст](https://cloud.mail.ru/public/ZXdB/JeF6Gm7jJ)
 
